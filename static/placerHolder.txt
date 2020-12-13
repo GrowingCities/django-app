@@ -1,0 +1,1 @@
+created by Serge to make sure static directory always holds a file.
